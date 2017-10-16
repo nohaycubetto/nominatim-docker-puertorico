@@ -1,6 +1,6 @@
 # Nominatim Docker Puerto Rico
 
-100% working container for [Nominatim](https://github.com/twain47/Nominatim) using Puerto Rico data.
+100% working container for [Nominatim](https://github.com/twain47/Nominatim) using [Puerto Rico data](http://download.geofabrik.de/north-america/us/puerto-rico.html)
 
 [![](https://images.microbadger.com/badges/image/mediagis/nominatim.svg)](https://microbadger.com/images/mediagis/nominatim "Get your own image badge on microbadger.com")
 
